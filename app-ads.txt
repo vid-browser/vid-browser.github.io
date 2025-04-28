@@ -1,0 +1,4 @@
+# Updated at  2025/04/28 16:32:12
+
+# Admob
+google.com, pub-9841048813479502, DIRECT, f08c47fec0942fa0
