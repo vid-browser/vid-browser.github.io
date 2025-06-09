@@ -2,3 +2,8 @@
 
 # Admob
 google.com, pub-9841048813479502, DIRECT, f08c47fec0942fa0
+
+# Facebook
+facebook.com, 1283656832854937, DIRECT, c3e20eee3f780d68
+
+# End
